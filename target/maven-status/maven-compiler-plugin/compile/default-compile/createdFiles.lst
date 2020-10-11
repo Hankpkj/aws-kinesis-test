@@ -1,0 +1,9 @@
+com/example/kinesis/DataGenerator.class
+com/example/kinesis/RecordWriter.class
+com/example/kinesis/GetRecords.class
+com/example/kinesis/StockTrade$TradeType.class
+com/example/kinesis/DescribeLimits.class
+com/example/kinesis/DataGenerator$StockPrice.class
+com/example/kinesis/CreateDataStream.class
+com/example/kinesis/StockTrade.class
+com/example/kinesis/ListShards.class

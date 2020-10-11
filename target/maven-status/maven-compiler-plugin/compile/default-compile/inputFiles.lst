@@ -1,0 +1,8 @@
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/com/example/kinesis/ListShards.java
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/com/example/kinesis/DataGenerator.java
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/com/example/kinesis/GetRecords.java
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/com/example/kinesis/RecordWriter.java
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/com/example/kinesis/DescribeLimits.java
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/com/example/kinesis/StockTrade.java
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/KinesisServiceIntegration.java
+/Users/kyungjaepark/Projects/study-aws-kinesis/src/main/java/com/example/kinesis/CreateDataStream.java
