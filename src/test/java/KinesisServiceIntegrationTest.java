@@ -95,7 +95,14 @@ public class KinesisServiceIntegrationTest {
     @Order(6)
     public void GetRecords() {
         GetRecords.getStockData(kinesisClient, streamName);
-        System.out.println("Test 6 passed");
+        System.out.println("Get data passed");
+    }
+
+    @Test
+    @Order(7)
+    public void DeleteDataStream() {
+        DeleteDataStream.deleteStream(kinesisClient, streamName);
+        System.out.println("delete stream passed");
     }
 
 
